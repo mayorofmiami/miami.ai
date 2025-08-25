@@ -48,3 +48,4 @@ Follow our [Vercel deployment guide](https://docs.intern3.chat/deployment/vercel
 ## Footnotes
 - [1]: Some models are available with in-house credits, so API keys aren't always required! But not all, so we don't go broke (looking at you, `o3`, `claude-sonnet-4` and `claude-opus-4`'s of the world...)
 - [2]: You might have to add in the model IDs you would like to use yourself.
+ 
